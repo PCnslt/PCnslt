@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/PCnslt">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Quant+Developer+%26+ML+Engineer;Building+self-learning+trading+systems;Automating+markets+with+Python+%26+GitHub+Actions" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Quant+Developer+%26+ML+Engineer;Turning+market+data+into+automated+decisions;Python+%E2%80%A2+Java+%E2%80%A2+TypeScript+%E2%80%A2+GitHub+Actions" alt="typing"/>
 </a>
 
 <br/>
@@ -18,17 +18,14 @@
 
 ---
 
-### ⚡ About Me
+### 👋 About
 
-```python
-class ShawnR:
-    def __init__(self):
-        self.role        = "Quant Dev / ML Engineer"
-        self.focus       = ["algorithmic-trading", "market-data", "ml-pipelines"]
-        self.stack       = ["Python", "Java", "TypeScript", "Spring Boot", "Angular"]
-        self.currently   = "Shipping self-learning trading AI"
-        self.coffee      = float("inf")
-```
+> Quant developer building **self-learning, ML-driven trading systems** — turning raw market data into automated decisions.
+
+- 🔭 **Currently** — shipping an AI top-gainers prediction engine
+- 🧠 **Focus** — algorithmic trading · ML pipelines · market-data engineering
+- 🧰 **Daily drivers** — Python · Java · TypeScript · GitHub Actions
+- 📫 **Reach me** — [pcnslt.github.io/my-portfolio](https://pcnslt.github.io/my-portfolio/)
 
 ### 🛠️ Tech Stack
 
@@ -53,9 +50,13 @@ class ShawnR:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PCnslt&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<br/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PCnslt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PCnslt&bg_color=0b1120&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Commit%20Activity%20%E2%80%94%20Last%20Year" alt="activity graph"/>
 
 </div>
 
@@ -67,14 +68,6 @@ class ShawnR:
 | [📈 stock-market-data](https://github.com/PCnslt/stock-market-data) | Automated market-data pipeline running 3×/day via GitHub Actions |
 | [⚝️ trading-system-backend](https://github.com/PCnslt/trading-system-backend) | Java / Spring Boot trading engine backend |
 | [🖥️ trading-system-frontend](https://github.com/PCnslt/trading-system-frontend) | Angular / TypeScript trading dashboard |
-
-### 🐍 Contribution Activity
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/PCnslt/PCnslt/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
