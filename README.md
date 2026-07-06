@@ -1,6 +1,6 @@
 <!-- Profile README for PCnslt -->
 <a href="https://github.com/PCnslt">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:1e3a8a,100:06b6d4&height=200&section=header&text=Shawn%20Rahman&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Tinkerer&descSize=20&descAlignY=60&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:1e3a8a,100:06b6d4&height=200&section=header&text=Shawn%20Rahman&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Engineer%20%C2%B7%20Builder%20%C2%B7%20Tinkerer&descSize=20&descAlignY=60&animation=fadeIn" alt="header"/>
 </a>
 
 <div align="center">
