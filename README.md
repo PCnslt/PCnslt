@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PCnslt&bg_color=0b1120&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Commit%20Activity%20%E2%80%94%20Last%20Year" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PCnslt&bg_color=0b1120&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Commit%20Activity" alt="activity graph"/>
 
 </div>
 
